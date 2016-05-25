@@ -1,0 +1,1 @@
+include ':app', ':TangoSDK_Yamabe_Java', ':TangoUX_Yamabe_Java (1)', ':SimpleWAVIO-15.02.24'

@@ -1,0 +1,2 @@
+configurations.create("default")
+artifacts.add("default", file('SimpleWAVIO-15.02.24.jar'))
